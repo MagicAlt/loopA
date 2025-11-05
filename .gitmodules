@@ -1,0 +1,3 @@
+[submodule "loopB"]
+	path = loopB
+	url = https://github.com/MagicAlt/loopB
